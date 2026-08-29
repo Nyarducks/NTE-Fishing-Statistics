@@ -1,1 +1,3259 @@
-{"generated_at": "2026-08-29T12:34:19.505536+00:00", "summary": {"all_records": 10505, "records": {"5": {"s": {"count": 446, "min": 3626, "avg": 3979, "median": 3968, "max": 4543}, "a": {"count": 857, "min": 2625, "avg": 3073, "median": 3053, "max": 3625}, "b": {"count": 2167, "min": 363, "avg": 1538, "median": 1541, "max": 2624}}, "6": {"s": {"count": 400, "min": 5162, "avg": 5967, "median": 5901, "max": 7302}, "a": {"count": 1621, "min": 3240, "avg": 4078, "median": 4056, "max": 5160}, "b": {"count": 2204, "min": 683, "avg": 2110, "median": 2135, "max": 3239}}, "6+": {"s": {"count": 4, "min": 9618, "avg": 9791, "median": 9824, "max": 9900}, "a": {"count": 13, "min": 8137, "avg": 8783, "median": 8746, "max": 9441}, "b": {"count": 79, "min": 16, "avg": 4204, "median": 4395, "max": 7896}}, "9": {"s": {"count": 236, "min": 5183, "avg": 6216, "median": 6099, "max": 8098}, "a": {"count": 806, "min": 3500, "avg": 4209, "median": 4154, "max": 5178}, "b": {"count": 1181, "min": 818, "avg": 2532, "median": 2610, "max": 3499}}, "12": {"s": {"count": 44, "min": 11196, "avg": 13018, "median": 12450, "max": 16402}, "a": {"count": 269, "min": 5003, "avg": 7107, "median": 6947, "max": 11187}, "b": {"count": 109, "min": 571, "avg": 3781, "median": 4008, "max": 4993}}, "15": {"s": {"count": 15, "min": 37944, "avg": 50651, "median": 53418, "max": 64002}, "a": {"count": 54, "min": 19201, "avg": 28522, "median": 28001, "max": 37297}, "b": {"count": 0, "min": null, "avg": null, "median": null, "max": null}}}}, "diagnostics": {"source_records": 46256, "eligible_records": 46105, "duplicate_weights_removed": 35600, "ignored_unknown_fish": 0, "ignored_excluded_fish": 151, "ignored_invalid_record": 0}, "fish_records": [{"name": "アオノメハタ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 35, "min": 3645, "avg": 3977, "median": 4023, "max": 4480}, "a": {"count": 171, "min": 2626, "avg": 2903, "median": 2858, "max": 3609}, "b": {"count": 624, "min": 391, "avg": 1687, "median": 1706, "max": 2622}}}, {"name": "アカマンボウ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 11, "min": 3633, "avg": 4011, "median": 3983, "max": 4420}, "a": {"count": 91, "min": 2625, "avg": 2902, "median": 2843, "max": 3524}, "b": {"count": 345, "min": 419, "avg": 1684, "median": 1711, "max": 2614}}}, {"name": "オコフグ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 20, "min": 3626, "avg": 3984, "median": 4025, "max": 4379}, "a": {"count": 134, "min": 2629, "avg": 2924, "median": 2864, "max": 3610}, "b": {"count": 472, "min": 476, "avg": 1805, "median": 1847, "max": 2623}}}, {"name": "キチヌ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 6, "min": 3731, "avg": 3983, "median": 4016, "max": 4121}, "a": {"count": 61, "min": 2633, "avg": 2901, "median": 2895, "max": 3548}, "b": {"count": 271, "min": 503, "avg": 1651, "median": 1642, "max": 2607}}}, {"name": "キハダマグロ (5)", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 27, "min": 3628, "avg": 3934, "median": 3910, "max": 4377}, "a": {"count": 163, "min": 2625, "avg": 2917, "median": 2867, "max": 3622}, "b": {"count": 631, "min": 377, "avg": 1655, "median": 1644, "max": 2615}}}, {"name": "キリンミノカサゴ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 8, "min": 3635, "avg": 3841, "median": 3829, "max": 4245}, "a": {"count": 112, "min": 2625, "avg": 2925, "median": 2875, "max": 3591}, "b": {"count": 491, "min": 447, "avg": 1692, "median": 1731, "max": 2622}}}, {"name": "クロマグロ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 62, "min": 3634, "avg": 3957, "median": 3944, "max": 4474}, "a": {"count": 305, "min": 2625, "avg": 2920, "median": 2874, "max": 3621}, "b": {"count": 1179, "min": 440, "avg": 1716, "median": 1740, "max": 2624}}}, {"name": "ゴールデンバタフライ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 8, "min": 3664, "avg": 3855, "median": 3819, "max": 4208}, "a": {"count": 68, "min": 2626, "avg": 2907, "median": 2856, "max": 3599}, "b": {"count": 263, "min": 451, "avg": 1755, "median": 1765, "max": 2621}}}, {"name": "ゴールデンフナ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 17, "min": 3641, "avg": 3983, "median": 4015, "max": 4337}, "a": {"count": 122, "min": 2626, "avg": 2908, "median": 2873, "max": 3557}, "b": {"count": 515, "min": 418, "avg": 1699, "median": 1692, "max": 2623}}}, {"name": "サーモン", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 45, "min": 3636, "avg": 3938, "median": 3902, "max": 4343}, "a": {"count": 191, "min": 2627, "avg": 2956, "median": 2897, "max": 3612}, "b": {"count": 823, "min": 416, "avg": 1680, "median": 1684, "max": 2624}}}, {"name": "シイラ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 52, "min": 3634, "avg": 3959, "median": 3894, "max": 4437}, "a": {"count": 301, "min": 2626, "avg": 2920, "median": 2881, "max": 3587}, "b": {"count": 1138, "min": 368, "avg": 1691, "median": 1711, "max": 2624}}}, {"name": "シモンハタ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 13, "min": 3698, "avg": 3901, "median": 3859, "max": 4279}, "a": {"count": 108, "min": 2627, "avg": 2927, "median": 2890, "max": 3599}, "b": {"count": 491, "min": 455, "avg": 1741, "median": 1778, "max": 2619}}}, {"name": "シャインシイラ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 52, "min": 3634, "avg": 3983, "median": 3960, "max": 4461}, "a": {"count": 294, "min": 2625, "avg": 2943, "median": 2887, "max": 3625}, "b": {"count": 1159, "min": 387, "avg": 1694, "median": 1731, "max": 2624}}}, {"name": "ストライプドバス", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 19, "min": 3674, "avg": 3958, "median": 3904, "max": 4350}, "a": {"count": 143, "min": 2626, "avg": 2905, "median": 2851, "max": 3609}, "b": {"count": 511, "min": 434, "avg": 1721, "median": 1745, "max": 2623}}}, {"name": "ハナミノカサゴ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 5, "min": 3689, "avg": 3893, "median": 3847, "max": 4079}, "a": {"count": 90, "min": 2627, "avg": 2928, "median": 2899, "max": 3623}, "b": {"count": 313, "min": 519, "avg": 1750, "median": 1767, "max": 2621}}}, {"name": "ハリセンボン", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 30, "min": 3657, "avg": 3996, "median": 4000, "max": 4343}, "a": {"count": 186, "min": 2631, "avg": 2930, "median": 2895, "max": 3608}, "b": {"count": 683, "min": 383, "avg": 1694, "median": 1727, "max": 2622}}}, {"name": "ヒラメ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 36, "min": 3657, "avg": 4013, "median": 3977, "max": 4541}, "a": {"count": 199, "min": 2628, "avg": 2935, "median": 2884, "max": 3602}, "b": {"count": 680, "min": 383, "avg": 1709, "median": 1717, "max": 2624}}}, {"name": "ブラックゴースト", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 20, "min": 3677, "avg": 3944, "median": 3931, "max": 4455}, "a": {"count": 116, "min": 2627, "avg": 2890, "median": 2843, "max": 3609}, "b": {"count": 421, "min": 472, "avg": 1728, "median": 1737, "max": 2624}}}, {"name": "ブルーバタフライ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 13, "min": 3655, "avg": 4015, "median": 3987, "max": 4394}, "a": {"count": 69, "min": 2625, "avg": 2888, "median": 2840, "max": 3581}, "b": {"count": 277, "min": 439, "avg": 1761, "median": 1785, "max": 2618}}}, {"name": "マダイ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 14, "min": 3653, "avg": 3940, "median": 3935, "max": 4329}, "a": {"count": 138, "min": 2634, "avg": 2922, "median": 2877, "max": 3624}, "b": {"count": 525, "min": 385, "avg": 1692, "median": 1726, "max": 2624}}}, {"name": "マンボウ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 13, "min": 3648, "avg": 3913, "median": 3925, "max": 4208}, "a": {"count": 145, "min": 2625, "avg": 2895, "median": 2850, "max": 3612}, "b": {"count": 525, "min": 395, "avg": 1744, "median": 1766, "max": 2624}}}, {"name": "三秋桂", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 1, "min": 4076, "avg": 4076, "median": 4076, "max": 4076}, "a": {"count": 41, "min": 2626, "avg": 2951, "median": 2912, "max": 3621}, "b": {"count": 181, "min": 539, "avg": 1785, "median": 1951, "max": 2605}}}, {"name": "丹頂", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 32, "min": 3632, "avg": 3913, "median": 3868, "max": 4305}, "a": {"count": 238, "min": 2626, "avg": 2915, "median": 2875, "max": 3579}, "b": {"count": 841, "min": 398, "avg": 1719, "median": 1757, "max": 2624}}}, {"name": "水下彩", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 5, "min": 3755, "avg": 3942, "median": 4000, "max": 4077}, "a": {"count": 49, "min": 2625, "avg": 2930, "median": 2865, "max": 3594}, "b": {"count": 187, "min": 584, "avg": 1772, "median": 1784, "max": 2610}}}, {"name": "活翡翠", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 22, "min": 3649, "avg": 3956, "median": 3948, "max": 4420}, "a": {"count": 187, "min": 2625, "avg": 2932, "median": 2882, "max": 3593}, "b": {"count": 613, "min": 363, "avg": 1719, "median": 1748, "max": 2619}}}, {"name": "牙バラ", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 31, "min": 3734, "avg": 3982, "median": 3954, "max": 4421}, "a": {"count": 214, "min": 2625, "avg": 2924, "median": 2872, "max": 3559}, "b": {"count": 852, "min": 418, "avg": 1699, "median": 1714, "max": 2623}}}, {"name": "緑ピラニア", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 21, "min": 3653, "avg": 3957, "median": 3952, "max": 4543}, "a": {"count": 68, "min": 2633, "avg": 2892, "median": 2856, "max": 3624}, "b": {"count": 274, "min": 438, "avg": 1687, "median": 1733, "max": 2599}}}, {"name": "赤腹ピラニア", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 10, "min": 3644, "avg": 3833, "median": 3751, "max": 4328}, "a": {"count": 88, "min": 2627, "avg": 2883, "median": 2813, "max": 3415}, "b": {"count": 295, "min": 435, "avg": 1738, "median": 1740, "max": 2611}}}, {"name": "黒ピラニア", "stamina": 5, "category": "ノーマル", "bucket": "5", "ranks": {"s": {"count": 38, "min": 3638, "avg": 3937, "median": 3874, "max": 4449}, "a": {"count": 174, "min": 2625, "avg": 2920, "median": 2888, "max": 3601}, "b": {"count": 709, "min": 428, "avg": 1684, "median": 1705, "max": 2618}}}, {"name": "アズールシャイン", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 21, "min": 5196, "avg": 5983, "median": 5841, "max": 7041}, "a": {"count": 227, "min": 3248, "avg": 3905, "median": 3797, "max": 5069}, "b": {"count": 329, "min": 773, "avg": 2285, "median": 2332, "max": 3237}}}, {"name": "エンジーロ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 14, "min": 5163, "avg": 6080, "median": 6124, "max": 6943}, "a": {"count": 191, "min": 3242, "avg": 3906, "median": 3814, "max": 5157}, "b": {"count": 300, "min": 683, "avg": 2352, "median": 2428, "max": 3230}}}, {"name": "エンペラーエンゼル", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 4, "min": 5316, "avg": 5757, "median": 5787, "max": 6137}, "a": {"count": 161, "min": 3243, "avg": 3886, "median": 3800, "max": 5093}, "b": {"count": 273, "min": 856, "avg": 2356, "median": 2404, "max": 3238}}}, {"name": "クロボシカレイ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 4, "min": 5793, "avg": 6284, "median": 6366, "max": 6612}, "a": {"count": 85, "min": 3246, "avg": 3925, "median": 3821, "max": 5097}, "b": {"count": 124, "min": 1126, "avg": 2399, "median": 2486, "max": 3223}}}, {"name": "グリーンエンゼル", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 45, "min": 5217, "avg": 5917, "median": 5935, "max": 7237}, "a": {"count": 357, "min": 3241, "avg": 3878, "median": 3821, "max": 5026}, "b": {"count": 570, "min": 791, "avg": 2322, "median": 2410, "max": 3238}}}, {"name": "コハクナマズ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 10, "min": 5170, "avg": 5587, "median": 5594, "max": 6190}, "a": {"count": 170, "min": 3240, "avg": 3909, "median": 3840, "max": 5102}, "b": {"count": 233, "min": 716, "avg": 2280, "median": 2332, "max": 3239}}}, {"name": "コバルトエンゼル", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 20, "min": 5221, "avg": 6148, "median": 6127, "max": 7111}, "a": {"count": 239, "min": 3244, "avg": 3889, "median": 3804, "max": 5098}, "b": {"count": 342, "min": 694, "avg": 2336, "median": 2398, "max": 3226}}}, {"name": "ゴーストモンガラ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 13, "min": 5164, "avg": 5847, "median": 5880, "max": 6601}, "a": {"count": 169, "min": 3244, "avg": 3879, "median": 3792, "max": 5099}, "b": {"count": 279, "min": 727, "avg": 2361, "median": 2375, "max": 3237}}}, {"name": "サバ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 38, "min": 5187, "avg": 5872, "median": 5763, "max": 7199}, "a": {"count": 448, "min": 3244, "avg": 3904, "median": 3817, "max": 5134}, "b": {"count": 684, "min": 785, "avg": 2322, "median": 2382, "max": 3237}}}, {"name": "シルバーアロワナ (6)", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 5, "min": 5277, "avg": 6396, "median": 6344, "max": 7213}, "a": {"count": 78, "min": 3256, "avg": 3906, "median": 3837, "max": 5072}, "b": {"count": 117, "min": 889, "avg": 2337, "median": 2380, "max": 3233}}}, {"name": "ゼブラダニオ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 21, "min": 5162, "avg": 6011, "median": 6078, "max": 6789}, "a": {"count": 275, "min": 3240, "avg": 3905, "median": 3842, "max": 5143}, "b": {"count": 419, "min": 733, "avg": 2378, "median": 2467, "max": 3237}}}, {"name": "デビルモンガラ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 13, "min": 5218, "avg": 5830, "median": 5737, "max": 6822}, "a": {"count": 177, "min": 3244, "avg": 3889, "median": 3836, "max": 5143}, "b": {"count": 230, "min": 757, "avg": 2396, "median": 2485, "max": 3237}}}, {"name": "ドーンシャイン", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 7, "min": 5188, "avg": 5715, "median": 5494, "max": 6661}, "a": {"count": 162, "min": 3245, "avg": 3868, "median": 3797, "max": 5124}, "b": {"count": 275, "min": 880, "avg": 2407, "median": 2487, "max": 3236}}}, {"name": "ナイトエンゼル", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 10, "min": 5173, "avg": 5848, "median": 5679, "max": 6897}, "a": {"count": 110, "min": 3248, "avg": 3882, "median": 3850, "max": 4898}, "b": {"count": 188, "min": 762, "avg": 2322, "median": 2410, "max": 3235}}}, {"name": "ニジマス", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 8, "min": 5495, "avg": 6080, "median": 6130, "max": 6585}, "a": {"count": 138, "min": 3243, "avg": 3895, "median": 3846, "max": 5134}, "b": {"count": 246, "min": 767, "avg": 2409, "median": 2527, "max": 3220}}}, {"name": "ネオンテトラ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 20, "min": 5167, "avg": 5939, "median": 5811, "max": 6970}, "a": {"count": 230, "min": 3243, "avg": 3886, "median": 3844, "max": 5156}, "b": {"count": 357, "min": 772, "avg": 2361, "median": 2448, "max": 3235}}}, {"name": "ブルーエンゼル", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 19, "min": 5178, "avg": 5957, "median": 5887, "max": 6802}, "a": {"count": 255, "min": 3241, "avg": 3874, "median": 3776, "max": 5109}, "b": {"count": 375, "min": 735, "avg": 2294, "median": 2374, "max": 3237}}}, {"name": "ブルーロケット", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 6, "min": 5287, "avg": 6206, "median": 6292, "max": 6751}, "a": {"count": 89, "min": 3240, "avg": 3851, "median": 3818, "max": 5063}, "b": {"count": 158, "min": 827, "avg": 2342, "median": 2437, "max": 3224}}}, {"name": "ベタ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 28, "min": 5255, "avg": 6027, "median": 5978, "max": 7302}, "a": {"count": 272, "min": 3248, "avg": 3922, "median": 3839, "max": 5160}, "b": {"count": 398, "min": 779, "avg": 2400, "median": 2456, "max": 3239}}}, {"name": "ベニホムラタツ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 6, "min": 5266, "avg": 6059, "median": 5941, "max": 6978}, "a": {"count": 85, "min": 3265, "avg": 3791, "median": 3694, "max": 4775}, "b": {"count": 131, "min": 940, "avg": 2340, "median": 2334, "max": 3220}}}, {"name": "ボナナ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 3, "min": 5276, "avg": 5565, "median": 5677, "max": 5743}, "a": {"count": 54, "min": 3251, "avg": 3727, "median": 3626, "max": 5131}, "b": {"count": 83, "min": 997, "avg": 2498, "median": 2709, "max": 3234}}}, {"name": "ムラサキカンムリタツ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 10, "min": 5273, "avg": 5829, "median": 5802, "max": 6480}, "a": {"count": 89, "min": 3250, "avg": 3807, "median": 3739, "max": 4854}, "b": {"count": 147, "min": 790, "avg": 2436, "median": 2530, "max": 3235}}}, {"name": "ユカタハタ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 43, "min": 5188, "avg": 5994, "median": 5991, "max": 7072}, "a": {"count": 450, "min": 3241, "avg": 3912, "median": 3841, "max": 5141}, "b": {"count": 683, "min": 713, "avg": 2306, "median": 2385, "max": 3239}}}, {"name": "ロケットフィッシュ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 8, "min": 5339, "avg": 6092, "median": 6011, "max": 7002}, "a": {"count": 99, "min": 3245, "avg": 3921, "median": 3867, "max": 5026}, "b": {"count": 158, "min": 838, "avg": 2357, "median": 2466, "max": 3223}}}, {"name": "三色金魚", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 6, "min": 5211, "avg": 5788, "median": 5793, "max": 6734}, "a": {"count": 54, "min": 3241, "avg": 3843, "median": 3789, "max": 5120}, "b": {"count": 80, "min": 1216, "avg": 2322, "median": 2289, "max": 3218}}}, {"name": "五彩扇", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 11, "min": 5252, "avg": 5698, "median": 5509, "max": 6373}, "a": {"count": 119, "min": 3242, "avg": 3850, "median": 3774, "max": 4931}, "b": {"count": 171, "min": 848, "avg": 2354, "median": 2407, "max": 3233}}}, {"name": "緑鱗の旗", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 7, "min": 5465, "avg": 5970, "median": 5955, "max": 6510}, "a": {"count": 73, "min": 3251, "avg": 3841, "median": 3746, "max": 5126}, "b": {"count": 125, "min": 929, "avg": 2316, "median": 2415, "max": 3235}}}, {"name": "藍鱗の旗", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 5, "min": 5342, "avg": 5959, "median": 5855, "max": 6883}, "a": {"count": 73, "min": 3245, "avg": 3865, "median": 3788, "max": 5151}, "b": {"count": 122, "min": 863, "avg": 2343, "median": 2446, "max": 3210}}}, {"name": "赤鱗の旗", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 3, "min": 5212, "avg": 5855, "median": 5675, "max": 6678}, "a": {"count": 81, "min": 3243, "avg": 3852, "median": 3805, "max": 4837}, "b": {"count": 120, "min": 923, "avg": 2328, "median": 2322, "max": 3218}}}, {"name": "金サバ", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 39, "min": 5167, "avg": 5967, "median": 5876, "max": 7068}, "a": {"count": 480, "min": 3241, "avg": 3913, "median": 3825, "max": 5160}, "b": {"count": 682, "min": 714, "avg": 2320, "median": 2398, "max": 3238}}}, {"name": "金魚", "stamina": 6, "category": "ノーマル", "bucket": "6", "ranks": {"s": {"count": 7, "min": 5452, "avg": 6003, "median": 6065, "max": 6752}, "a": {"count": 70, "min": 3283, "avg": 3832, "median": 3712, "max": 4835}, "b": {"count": 121, "min": 811, "avg": 2287, "median": 2308, "max": 3213}}}, {"name": "ボロボロの缶詰", "stamina": 6, "category": "特殊ドロップ", "bucket": "6+", "ranks": {"s": {"count": 1, "min": 9862, "avg": 9862, "median": 9862, "max": 9862}, "a": {"count": 6, "min": 8137, "avg": 8757, "median": 8803, "max": 9371}, "b": {"count": 36, "min": 16, "avg": 4766, "median": 5418, "max": 7896}}}, {"name": "廃電池", "stamina": 6, "category": "特殊ドロップ", "bucket": "6+", "ranks": {"s": {"count": 3, "min": 9618, "avg": 9768, "median": 9786, "max": 9900}, "a": {"count": 7, "min": 8245, "avg": 8806, "median": 8746, "max": 9441}, "b": {"count": 43, "min": 240, "avg": 3734, "median": 3651, "max": 7808}}}, {"name": "キイロハギ", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 23, "min": 5238, "avg": 6179, "median": 6135, "max": 7939}, "a": {"count": 105, "min": 3507, "avg": 4201, "median": 4130, "max": 5176}, "b": {"count": 169, "min": 818, "avg": 2614, "median": 2748, "max": 3478}}}, {"name": "ギンスジヨウジウオ", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 11, "min": 5232, "avg": 6067, "median": 6259, "max": 6590}, "a": {"count": 21, "min": 3569, "avg": 4176, "median": 4174, "max": 4537}, "b": {"count": 38, "min": 1179, "avg": 2672, "median": 2721, "max": 3417}}}, {"name": "クジラウオ", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 5, "min": 5944, "avg": 7014, "median": 6935, "max": 8098}, "a": {"count": 46, "min": 3500, "avg": 4023, "median": 3901, "max": 5028}, "b": {"count": 74, "min": 952, "avg": 2605, "median": 2612, "max": 3499}}}, {"name": "ゴールデンカマス", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 8, "min": 5685, "avg": 6353, "median": 6330, "max": 7634}, "a": {"count": 52, "min": 3582, "avg": 4149, "median": 4024, "max": 5178}, "b": {"count": 62, "min": 832, "avg": 2619, "median": 2792, "max": 3490}}}, {"name": "ゴールドスネーク", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 4, "min": 5640, "avg": 6362, "median": 6407, "max": 6995}, "a": {"count": 17, "min": 3536, "avg": 3971, "median": 3989, "max": 4626}, "b": {"count": 33, "min": 1692, "avg": 2685, "median": 2801, "max": 3477}}}, {"name": "サドルエンゼル", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 9, "min": 5183, "avg": 6267, "median": 6313, "max": 7371}, "a": {"count": 37, "min": 3507, "avg": 4142, "median": 4000, "max": 5159}, "b": {"count": 50, "min": 1375, "avg": 2568, "median": 2580, "max": 3448}}}, {"name": "パープルスネーク", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 22, "min": 5205, "avg": 6140, "median": 5904, "max": 7717}, "a": {"count": 102, "min": 3509, "avg": 4078, "median": 3984, "max": 5043}, "b": {"count": 164, "min": 1015, "avg": 2608, "median": 2677, "max": 3498}}}, {"name": "ヒトデ", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 8, "min": 5189, "avg": 6410, "median": 6421, "max": 7395}, "a": {"count": 48, "min": 3517, "avg": 4218, "median": 4187, "max": 5121}, "b": {"count": 65, "min": 1250, "avg": 2580, "median": 2641, "max": 3495}}}, {"name": "ミナミハコフグ", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 4, "min": 5411, "avg": 5956, "median": 5767, "max": 6882}, "a": {"count": 33, "min": 3537, "avg": 4249, "median": 4347, "max": 5135}, "b": {"count": 46, "min": 1018, "avg": 2698, "median": 2902, "max": 3371}}}, {"name": "ライトニングパイク", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 17, "min": 5187, "avg": 6168, "median": 5916, "max": 7716}, "a": {"count": 64, "min": 3518, "avg": 4137, "median": 4053, "max": 5123}, "b": {"count": 105, "min": 973, "avg": 2684, "median": 2785, "max": 3496}}}, {"name": "レッドタン", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 19, "min": 5185, "avg": 6321, "median": 6091, "max": 7515}, "a": {"count": 57, "min": 3504, "avg": 4147, "median": 3957, "max": 5110}, "b": {"count": 80, "min": 1199, "avg": 2645, "median": 2692, "max": 3497}}}, {"name": "星斑魚", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 7, "min": 5247, "avg": 6123, "median": 5866, "max": 7346}, "a": {"count": 24, "min": 3513, "avg": 4442, "median": 4495, "max": 5129}, "b": {"count": 44, "min": 911, "avg": 2521, "median": 2684, "max": 3488}}}, {"name": "桜サドルエンゼル", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 13, "min": 5206, "avg": 5947, "median": 5726, "max": 7773}, "a": {"count": 66, "min": 3514, "avg": 4189, "median": 4209, "max": 5165}, "b": {"count": 112, "min": 1085, "avg": 2648, "median": 2847, "max": 3499}}}, {"name": "海中の栗", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 11, "min": 5280, "avg": 6323, "median": 6075, "max": 7782}, "a": {"count": 38, "min": 3525, "avg": 4223, "median": 4157, "max": 4981}, "b": {"count": 57, "min": 954, "avg": 2572, "median": 2717, "max": 3478}}}, {"name": "紫紺クジラウオ", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 20, "min": 5200, "avg": 6255, "median": 6088, "max": 7750}, "a": {"count": 102, "min": 3524, "avg": 4157, "median": 4102, "max": 5160}, "b": {"count": 185, "min": 1013, "avg": 2622, "median": 2692, "max": 3498}}}, {"name": "藍斑魚", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 12, "min": 5252, "avg": 6022, "median": 5737, "max": 7757}, "a": {"count": 70, "min": 3510, "avg": 4164, "median": 4005, "max": 5170}, "b": {"count": 95, "min": 1268, "avg": 2684, "median": 2833, "max": 3485}}}, {"name": "錦鯉", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 31, "min": 5248, "avg": 6319, "median": 6206, "max": 7978}, "a": {"count": 106, "min": 3507, "avg": 4140, "median": 4034, "max": 5078}, "b": {"count": 171, "min": 851, "avg": 2555, "median": 2653, "max": 3465}}}, {"name": "青斑魚", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 6, "min": 5307, "avg": 5973, "median": 5651, "max": 7508}, "a": {"count": 55, "min": 3500, "avg": 4084, "median": 4019, "max": 5113}, "b": {"count": 73, "min": 882, "avg": 2507, "median": 2670, "max": 3478}}}, {"name": "青玉鱗", "stamina": 9, "category": "ノーマル", "bucket": "9", "ranks": {"s": {"count": 11, "min": 5274, "avg": 6155, "median": 6112, "max": 7625}, "a": {"count": 47, "min": 3557, "avg": 4285, "median": 4396, "max": 5171}, "b": {"count": 83, "min": 877, "avg": 2605, "median": 2795, "max": 3437}}}, {"name": "アイススタージョン", "stamina": 12, "category": "ノーマル", "bucket": "12", "ranks": {"s": {"count": 3, "min": 13015, "avg": 14171, "median": 13485, "max": 16015}, "a": {"count": 21, "min": 5095, "avg": 6984, "median": 6820, "max": 10227}, "b": {"count": 5, "min": 2004, "avg": 3980, "median": 4446, "max": 4642}}}, {"name": "アジアアロワナ", "stamina": 12, "category": "ノーマル", "bucket": "12", "ranks": {"s": {"count": 2, "min": 13677, "avg": 14033, "median": 14033, "max": 14390}, "a": {"count": 15, "min": 5003, "avg": 6766, "median": 6176, "max": 11133}, "b": {"count": 5, "min": 2993, "avg": 3953, "median": 4105, "max": 4463}}}, {"name": "キハダマグロ (12)", "stamina": 12, "category": "ノーマル", "bucket": "12", "ranks": {"s": {"count": 4, "min": 11245, "avg": 11603, "median": 11584, "max": 11999}, "a": {"count": 20, "min": 5050, "avg": 6843, "median": 6652, "max": 9995}, "b": {"count": 8, "min": 571, "avg": 2145, "median": 1901, "max": 4514}}}, {"name": "グリーンクイーン", "stamina": 12, "category": "ノーマル", "bucket": "12", "ranks": {"s": {"count": 3, "min": 11389, "avg": 11678, "median": 11702, "max": 11944}, "a": {"count": 18, "min": 5431, "avg": 7051, "median": 6184, "max": 9173}, "b": {"count": 9, "min": 2509, "avg": 4035, "median": 4259, "max": 4953}}}, {"name": "シルバーアロワナ (12)", "stamina": 12, "category": "ノーマル", "bucket": "12", "ranks": {"s": {"count": 1, "min": 12261, "avg": 12261, "median": 12261, "max": 12261}, "a": {"count": 25, "min": 5301, "avg": 7457, "median": 7160, "max": 10508}, "b": {"count": 8, "min": 2305, "avg": 3923, "median": 4150, "max": 4947}}}, {"name": "ダスクリップル", "stamina": 12, "category": "ノーマル", "bucket": "12", "ranks": {"s": {"count": 3, "min": 11267, "avg": 12982, "median": 12258, "max": 15423}, "a": {"count": 19, "min": 5043, "avg": 6878, "median": 6471, "max": 11187}, "b": {"count": 4, "min": 3267, "avg": 4009, "median": 4032, "max": 4704}}}, {"name": "ダークマンタ", "stamina": 12, "category": "ノーマル", "bucket": "12", "ranks": {"s": {"count": 8, "min": 11241, "avg": 14176, "median": 14484, "max": 16402}, "a": {"count": 29, "min": 5085, "avg": 7019, "median": 6567, "max": 10795}, "b": {"count": 7, "min": 2061, "avg": 3682, "median": 3441, "max": 4931}}}, {"name": "デンキウナギ", "stamina": 12, "category": "ノーマル", "bucket": "12", "ranks": {"s": {"count": 5, "min": 11237, "avg": 12524, "median": 12415, "max": 14042}, "a": {"count": 19, "min": 5041, "avg": 7187, "median": 6742, "max": 10278}, "b": {"count": 8, "min": 2845, "avg": 4007, "median": 4303, "max": 4975}}}, {"name": "パープルクイーン", "stamina": 12, "category": "ノーマル", "bucket": "12", "ranks": {"s": {"count": 4, "min": 11791, "avg": 12987, "median": 12508, "max": 15140}, "a": {"count": 15, "min": 5292, "avg": 7482, "median": 7141, "max": 10636}, "b": {"count": 11, "min": 2470, "avg": 3805, "median": 3690, "max": 4993}}}, {"name": "フレイムエンゼル", "stamina": 12, "category": "ノーマル", "bucket": "12", "ranks": {"s": {"count": 2, "min": 12423, "avg": 13768, "median": 13768, "max": 15113}, "a": {"count": 22, "min": 5098, "avg": 7153, "median": 6995, "max": 10447}, "b": {"count": 9, "min": 3150, "avg": 4093, "median": 4057, "max": 4897}}}, {"name": "ホネダイ", "stamina": 12, "category": "ノーマル", "bucket": "12", "ranks": {"s": {"count": 2, "min": 13304, "avg": 14385, "median": 14385, "max": 15466}, "a": {"count": 24, "min": 5405, "avg": 7152, "median": 7210, "max": 9386}, "b": {"count": 9, "min": 2538, "avg": 3621, "median": 3537, "max": 4831}}}, {"name": "ミドリオウムウオ", "stamina": 12, "category": "ノーマル", "bucket": "12", "ranks": {"s": {"count": 2, "min": 11226, "avg": 11807, "median": 11807, "max": 12389}, "a": {"count": 15, "min": 5750, "avg": 7508, "median": 7086, "max": 10782}, "b": {"count": 9, "min": 2138, "avg": 3814, "median": 4139, "max": 4925}}}, {"name": "猛毒ミノカサゴ", "stamina": 12, "category": "ノーマル", "bucket": "12", "ranks": {"s": {"count": 1, "min": 11926, "avg": 11926, "median": 11926, "max": 11926}, "a": {"count": 14, "min": 5183, "avg": 6955, "median": 6942, "max": 9050}, "b": {"count": 6, "min": 3506, "avg": 3940, "median": 3933, "max": 4541}}}, {"name": "縞々ココナッツ", "stamina": 12, "category": "ノーマル", "bucket": "12", "ranks": {"s": {"count": 4, "min": 11196, "avg": 12435, "median": 12539, "max": 13469}, "a": {"count": 22, "min": 5093, "avg": 6667, "median": 6254, "max": 9399}, "b": {"count": 12, "min": 3282, "avg": 4051, "median": 4075, "max": 4754}}}, {"name": "アズールエンゼル", "stamina": 15, "category": "ヌシ", "bucket": "15", "ranks": {"s": {"count": 1, "min": 53418, "avg": 53418, "median": 53418, "max": 53418}, "a": {"count": 3, "min": 19201, "avg": 22409, "median": 20978, "max": 27048}, "b": {"count": 0, "min": null, "avg": null, "median": null, "max": null}}}, {"name": "カクレクマノミ", "stamina": 15, "category": "ヌシ", "bucket": "15", "ranks": {"s": {"count": 1, "min": 39733, "avg": 39733, "median": 39733, "max": 39733}, "a": {"count": 2, "min": 29965, "avg": 30797, "median": 30797, "max": 31630}, "b": {"count": 0, "min": null, "avg": null, "median": null, "max": null}}}, {"name": "シーイール", "stamina": 15, "category": "ヌシ", "bucket": "15", "ranks": {"s": {"count": 2, "min": 46290, "avg": 51266, "median": 51266, "max": 56243}, "a": {"count": 3, "min": 23182, "avg": 27804, "median": 25937, "max": 34294}, "b": {"count": 0, "min": null, "avg": null, "median": null, "max": null}}}, {"name": "ジェイドエンゼル", "stamina": 15, "category": "ヌシ", "bucket": "15", "ranks": {"s": {"count": 1, "min": 57811, "avg": 57811, "median": 57811, "max": 57811}, "a": {"count": 8, "min": 21829, "avg": 28625, "median": 27962, "max": 36996}, "b": {"count": 0, "min": null, "avg": null, "median": null, "max": null}}}, {"name": "ソードテール", "stamina": 15, "category": "ヌシ", "bucket": "15", "ranks": {"s": {"count": 1, "min": 64002, "avg": 64002, "median": 64002, "max": 64002}, "a": {"count": 12, "min": 21457, "avg": 29576, "median": 30116, "max": 36520}, "b": {"count": 0, "min": null, "avg": null, "median": null, "max": null}}}, {"name": "トウダイクラゲ", "stamina": 15, "category": "ヌシ", "bucket": "15", "ranks": {"s": {"count": 1, "min": 43090, "avg": 43090, "median": 43090, "max": 43090}, "a": {"count": 6, "min": 26112, "avg": 31501, "median": 30778, "max": 37297}, "b": {"count": 0, "min": null, "avg": null, "median": null, "max": null}}}, {"name": "ドーンリップル", "stamina": 15, "category": "ヌシ", "bucket": "15", "ranks": {"s": {"count": 1, "min": 60279, "avg": 60279, "median": 60279, "max": 60279}, "a": {"count": 2, "min": 29135, "avg": 31308, "median": 31308, "max": 33481}, "b": {"count": 0, "min": null, "avg": null, "median": null, "max": null}}}, {"name": "ニシキイトマキエイ", "stamina": 15, "category": "ヌシ", "bucket": "15", "ranks": {"s": {"count": 2, "min": 37944, "avg": 38234, "median": 38234, "max": 38524}, "a": {"count": 1, "min": 23343, "avg": 23343, "median": 23343, "max": 23343}, "b": {"count": 0, "min": null, "avg": null, "median": null, "max": null}}}, {"name": "ミントエンゼル", "stamina": 15, "category": "ヌシ", "bucket": "15", "ranks": {"s": {"count": 1, "min": 46675, "avg": 46675, "median": 46675, "max": 46675}, "a": {"count": 8, "min": 21274, "avg": 27546, "median": 26768, "max": 34755}, "b": {"count": 0, "min": null, "avg": null, "median": null, "max": null}}}, {"name": "レッドアロワナ", "stamina": 15, "category": "ヌシ", "bucket": "15", "ranks": {"s": {"count": 1, "min": 38657, "avg": 38657, "median": 38657, "max": 38657}, "a": {"count": 4, "min": 20019, "avg": 26626, "median": 26752, "max": 32982}, "b": {"count": 0, "min": null, "avg": null, "median": null, "max": null}}}, {"name": "地獄ミノカサゴ", "stamina": 15, "category": "ヌシ", "bucket": "15", "ranks": {"s": {"count": 1, "min": 62461, "avg": 62461, "median": 62461, "max": 62461}, "a": {"count": 4, "min": 26959, "avg": 29372, "median": 29129, "max": 32273}, "b": {"count": 0, "min": null, "avg": null, "median": null, "max": null}}}, {"name": "紅白錦鯉", "stamina": 15, "category": "ヌシ", "bucket": "15", "ranks": {"s": {"count": 2, "min": 53549, "avg": 57323, "median": 57323, "max": 61098}, "a": {"count": 2, "min": 26397, "avg": 26924, "median": 26924, "max": 27452}, "b": {"count": 0, "min": null, "avg": null, "median": null, "max": null}}}]}
+{
+  "generated_at": "2026-08-29T12:34:01.958773+00:00",
+  "summary": {
+    "all_records": 10505,
+    "records": {
+      "5": {
+        "s": {
+          "count": 446,
+          "min": 3626,
+          "avg": 3979,
+          "median": 3968,
+          "max": 4543
+        },
+        "a": {
+          "count": 857,
+          "min": 2625,
+          "avg": 3073,
+          "median": 3053,
+          "max": 3625
+        },
+        "b": {
+          "count": 2167,
+          "min": 363,
+          "avg": 1538,
+          "median": 1541,
+          "max": 2624
+        }
+      },
+      "6": {
+        "s": {
+          "count": 400,
+          "min": 5162,
+          "avg": 5967,
+          "median": 5901,
+          "max": 7302
+        },
+        "a": {
+          "count": 1621,
+          "min": 3240,
+          "avg": 4078,
+          "median": 4056,
+          "max": 5160
+        },
+        "b": {
+          "count": 2204,
+          "min": 683,
+          "avg": 2110,
+          "median": 2135,
+          "max": 3239
+        }
+      },
+      "9": {
+        "s": {
+          "count": 236,
+          "min": 5183,
+          "avg": 6216,
+          "median": 6099,
+          "max": 8098
+        },
+        "a": {
+          "count": 806,
+          "min": 3500,
+          "avg": 4209,
+          "median": 4154,
+          "max": 5178
+        },
+        "b": {
+          "count": 1181,
+          "min": 818,
+          "avg": 2532,
+          "median": 2610,
+          "max": 3499
+        }
+      },
+      "12": {
+        "s": {
+          "count": 44,
+          "min": 11196,
+          "avg": 13018,
+          "median": 12450,
+          "max": 16402
+        },
+        "a": {
+          "count": 269,
+          "min": 5003,
+          "avg": 7107,
+          "median": 6947,
+          "max": 11187
+        },
+        "b": {
+          "count": 109,
+          "min": 571,
+          "avg": 3781,
+          "median": 4008,
+          "max": 4993
+        }
+      },
+      "15": {
+        "s": {
+          "count": 15,
+          "min": 37944,
+          "avg": 50651,
+          "median": 53418,
+          "max": 64002
+        },
+        "a": {
+          "count": 54,
+          "min": 19201,
+          "avg": 28522,
+          "median": 28001,
+          "max": 37297
+        },
+        "b": {
+          "count": 0,
+          "min": null,
+          "avg": null,
+          "median": null,
+          "max": null
+        }
+      },
+      "6+": {
+        "s": {
+          "count": 4,
+          "min": 9618,
+          "avg": 9791,
+          "median": 9824,
+          "max": 9900
+        },
+        "a": {
+          "count": 13,
+          "min": 8137,
+          "avg": 8783,
+          "median": 8746,
+          "max": 9441
+        },
+        "b": {
+          "count": 79,
+          "min": 16,
+          "avg": 4204,
+          "median": 4395,
+          "max": 7896
+        }
+      }
+    }
+  },
+  "diagnostics": {
+    "source_records": 46256,
+    "eligible_records": 46105,
+    "duplicate_weights_removed": 35600,
+    "ignored_unknown_fish": 0,
+    "ignored_excluded_fish": 151,
+    "ignored_invalid_record": 0
+  },
+  "fish_records": [
+    {
+      "name": "アオノメハタ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 35,
+          "min": 3645,
+          "avg": 3977,
+          "median": 4023,
+          "max": 4480
+        },
+        "a": {
+          "count": 171,
+          "min": 2626,
+          "avg": 2903,
+          "median": 2858,
+          "max": 3609
+        },
+        "b": {
+          "count": 624,
+          "min": 391,
+          "avg": 1687,
+          "median": 1706,
+          "max": 2622
+        }
+      }
+    },
+    {
+      "name": "アカマンボウ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 11,
+          "min": 3633,
+          "avg": 4011,
+          "median": 3983,
+          "max": 4420
+        },
+        "a": {
+          "count": 91,
+          "min": 2625,
+          "avg": 2902,
+          "median": 2843,
+          "max": 3524
+        },
+        "b": {
+          "count": 345,
+          "min": 419,
+          "avg": 1684,
+          "median": 1711,
+          "max": 2614
+        }
+      }
+    },
+    {
+      "name": "オコフグ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 20,
+          "min": 3626,
+          "avg": 3984,
+          "median": 4025,
+          "max": 4379
+        },
+        "a": {
+          "count": 134,
+          "min": 2629,
+          "avg": 2924,
+          "median": 2864,
+          "max": 3610
+        },
+        "b": {
+          "count": 472,
+          "min": 476,
+          "avg": 1805,
+          "median": 1847,
+          "max": 2623
+        }
+      }
+    },
+    {
+      "name": "キチヌ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 6,
+          "min": 3731,
+          "avg": 3983,
+          "median": 4016,
+          "max": 4121
+        },
+        "a": {
+          "count": 61,
+          "min": 2633,
+          "avg": 2901,
+          "median": 2895,
+          "max": 3548
+        },
+        "b": {
+          "count": 271,
+          "min": 503,
+          "avg": 1651,
+          "median": 1642,
+          "max": 2607
+        }
+      }
+    },
+    {
+      "name": "キハダマグロ (5)",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 27,
+          "min": 3628,
+          "avg": 3934,
+          "median": 3910,
+          "max": 4377
+        },
+        "a": {
+          "count": 163,
+          "min": 2625,
+          "avg": 2917,
+          "median": 2867,
+          "max": 3622
+        },
+        "b": {
+          "count": 631,
+          "min": 377,
+          "avg": 1655,
+          "median": 1644,
+          "max": 2615
+        }
+      }
+    },
+    {
+      "name": "キリンミノカサゴ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 8,
+          "min": 3635,
+          "avg": 3841,
+          "median": 3829,
+          "max": 4245
+        },
+        "a": {
+          "count": 112,
+          "min": 2625,
+          "avg": 2925,
+          "median": 2875,
+          "max": 3591
+        },
+        "b": {
+          "count": 491,
+          "min": 447,
+          "avg": 1692,
+          "median": 1731,
+          "max": 2622
+        }
+      }
+    },
+    {
+      "name": "クロマグロ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 62,
+          "min": 3634,
+          "avg": 3957,
+          "median": 3944,
+          "max": 4474
+        },
+        "a": {
+          "count": 305,
+          "min": 2625,
+          "avg": 2920,
+          "median": 2874,
+          "max": 3621
+        },
+        "b": {
+          "count": 1179,
+          "min": 440,
+          "avg": 1716,
+          "median": 1740,
+          "max": 2624
+        }
+      }
+    },
+    {
+      "name": "ゴールデンバタフライ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 8,
+          "min": 3664,
+          "avg": 3855,
+          "median": 3819,
+          "max": 4208
+        },
+        "a": {
+          "count": 68,
+          "min": 2626,
+          "avg": 2907,
+          "median": 2856,
+          "max": 3599
+        },
+        "b": {
+          "count": 263,
+          "min": 451,
+          "avg": 1755,
+          "median": 1765,
+          "max": 2621
+        }
+      }
+    },
+    {
+      "name": "ゴールデンフナ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 17,
+          "min": 3641,
+          "avg": 3983,
+          "median": 4015,
+          "max": 4337
+        },
+        "a": {
+          "count": 122,
+          "min": 2626,
+          "avg": 2908,
+          "median": 2873,
+          "max": 3557
+        },
+        "b": {
+          "count": 515,
+          "min": 418,
+          "avg": 1699,
+          "median": 1692,
+          "max": 2623
+        }
+      }
+    },
+    {
+      "name": "サーモン",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 45,
+          "min": 3636,
+          "avg": 3938,
+          "median": 3902,
+          "max": 4343
+        },
+        "a": {
+          "count": 191,
+          "min": 2627,
+          "avg": 2956,
+          "median": 2897,
+          "max": 3612
+        },
+        "b": {
+          "count": 823,
+          "min": 416,
+          "avg": 1680,
+          "median": 1684,
+          "max": 2624
+        }
+      }
+    },
+    {
+      "name": "シイラ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 52,
+          "min": 3634,
+          "avg": 3959,
+          "median": 3894,
+          "max": 4437
+        },
+        "a": {
+          "count": 301,
+          "min": 2626,
+          "avg": 2920,
+          "median": 2881,
+          "max": 3587
+        },
+        "b": {
+          "count": 1138,
+          "min": 368,
+          "avg": 1691,
+          "median": 1711,
+          "max": 2624
+        }
+      }
+    },
+    {
+      "name": "シモンハタ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 13,
+          "min": 3698,
+          "avg": 3901,
+          "median": 3859,
+          "max": 4279
+        },
+        "a": {
+          "count": 108,
+          "min": 2627,
+          "avg": 2927,
+          "median": 2890,
+          "max": 3599
+        },
+        "b": {
+          "count": 491,
+          "min": 455,
+          "avg": 1741,
+          "median": 1778,
+          "max": 2619
+        }
+      }
+    },
+    {
+      "name": "シャインシイラ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 52,
+          "min": 3634,
+          "avg": 3983,
+          "median": 3960,
+          "max": 4461
+        },
+        "a": {
+          "count": 294,
+          "min": 2625,
+          "avg": 2943,
+          "median": 2887,
+          "max": 3625
+        },
+        "b": {
+          "count": 1159,
+          "min": 387,
+          "avg": 1694,
+          "median": 1731,
+          "max": 2624
+        }
+      }
+    },
+    {
+      "name": "ストライプドバス",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 19,
+          "min": 3674,
+          "avg": 3958,
+          "median": 3904,
+          "max": 4350
+        },
+        "a": {
+          "count": 143,
+          "min": 2626,
+          "avg": 2905,
+          "median": 2851,
+          "max": 3609
+        },
+        "b": {
+          "count": 511,
+          "min": 434,
+          "avg": 1721,
+          "median": 1745,
+          "max": 2623
+        }
+      }
+    },
+    {
+      "name": "ハナミノカサゴ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 5,
+          "min": 3689,
+          "avg": 3893,
+          "median": 3847,
+          "max": 4079
+        },
+        "a": {
+          "count": 90,
+          "min": 2627,
+          "avg": 2928,
+          "median": 2899,
+          "max": 3623
+        },
+        "b": {
+          "count": 313,
+          "min": 519,
+          "avg": 1750,
+          "median": 1767,
+          "max": 2621
+        }
+      }
+    },
+    {
+      "name": "ハリセンボン",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 30,
+          "min": 3657,
+          "avg": 3996,
+          "median": 4000,
+          "max": 4343
+        },
+        "a": {
+          "count": 186,
+          "min": 2631,
+          "avg": 2930,
+          "median": 2895,
+          "max": 3608
+        },
+        "b": {
+          "count": 683,
+          "min": 383,
+          "avg": 1694,
+          "median": 1727,
+          "max": 2622
+        }
+      }
+    },
+    {
+      "name": "ヒラメ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 36,
+          "min": 3657,
+          "avg": 4013,
+          "median": 3977,
+          "max": 4541
+        },
+        "a": {
+          "count": 199,
+          "min": 2628,
+          "avg": 2935,
+          "median": 2884,
+          "max": 3602
+        },
+        "b": {
+          "count": 680,
+          "min": 383,
+          "avg": 1709,
+          "median": 1717,
+          "max": 2624
+        }
+      }
+    },
+    {
+      "name": "ブラックゴースト",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 20,
+          "min": 3677,
+          "avg": 3944,
+          "median": 3931,
+          "max": 4455
+        },
+        "a": {
+          "count": 116,
+          "min": 2627,
+          "avg": 2890,
+          "median": 2843,
+          "max": 3609
+        },
+        "b": {
+          "count": 421,
+          "min": 472,
+          "avg": 1728,
+          "median": 1737,
+          "max": 2624
+        }
+      }
+    },
+    {
+      "name": "ブルーバタフライ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 13,
+          "min": 3655,
+          "avg": 4015,
+          "median": 3987,
+          "max": 4394
+        },
+        "a": {
+          "count": 69,
+          "min": 2625,
+          "avg": 2888,
+          "median": 2840,
+          "max": 3581
+        },
+        "b": {
+          "count": 277,
+          "min": 439,
+          "avg": 1761,
+          "median": 1785,
+          "max": 2618
+        }
+      }
+    },
+    {
+      "name": "マダイ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 14,
+          "min": 3653,
+          "avg": 3940,
+          "median": 3935,
+          "max": 4329
+        },
+        "a": {
+          "count": 138,
+          "min": 2634,
+          "avg": 2922,
+          "median": 2877,
+          "max": 3624
+        },
+        "b": {
+          "count": 525,
+          "min": 385,
+          "avg": 1692,
+          "median": 1726,
+          "max": 2624
+        }
+      }
+    },
+    {
+      "name": "マンボウ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 13,
+          "min": 3648,
+          "avg": 3913,
+          "median": 3925,
+          "max": 4208
+        },
+        "a": {
+          "count": 145,
+          "min": 2625,
+          "avg": 2895,
+          "median": 2850,
+          "max": 3612
+        },
+        "b": {
+          "count": 525,
+          "min": 395,
+          "avg": 1744,
+          "median": 1766,
+          "max": 2624
+        }
+      }
+    },
+    {
+      "name": "三秋桂",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 1,
+          "min": 4076,
+          "avg": 4076,
+          "median": 4076,
+          "max": 4076
+        },
+        "a": {
+          "count": 41,
+          "min": 2626,
+          "avg": 2951,
+          "median": 2912,
+          "max": 3621
+        },
+        "b": {
+          "count": 181,
+          "min": 539,
+          "avg": 1785,
+          "median": 1951,
+          "max": 2605
+        }
+      }
+    },
+    {
+      "name": "丹頂",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 32,
+          "min": 3632,
+          "avg": 3913,
+          "median": 3868,
+          "max": 4305
+        },
+        "a": {
+          "count": 238,
+          "min": 2626,
+          "avg": 2915,
+          "median": 2875,
+          "max": 3579
+        },
+        "b": {
+          "count": 841,
+          "min": 398,
+          "avg": 1719,
+          "median": 1757,
+          "max": 2624
+        }
+      }
+    },
+    {
+      "name": "水下彩",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 5,
+          "min": 3755,
+          "avg": 3942,
+          "median": 4000,
+          "max": 4077
+        },
+        "a": {
+          "count": 49,
+          "min": 2625,
+          "avg": 2930,
+          "median": 2865,
+          "max": 3594
+        },
+        "b": {
+          "count": 187,
+          "min": 584,
+          "avg": 1772,
+          "median": 1784,
+          "max": 2610
+        }
+      }
+    },
+    {
+      "name": "活翡翠",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 22,
+          "min": 3649,
+          "avg": 3956,
+          "median": 3948,
+          "max": 4420
+        },
+        "a": {
+          "count": 187,
+          "min": 2625,
+          "avg": 2932,
+          "median": 2882,
+          "max": 3593
+        },
+        "b": {
+          "count": 613,
+          "min": 363,
+          "avg": 1719,
+          "median": 1748,
+          "max": 2619
+        }
+      }
+    },
+    {
+      "name": "牙バラ",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 31,
+          "min": 3734,
+          "avg": 3982,
+          "median": 3954,
+          "max": 4421
+        },
+        "a": {
+          "count": 214,
+          "min": 2625,
+          "avg": 2924,
+          "median": 2872,
+          "max": 3559
+        },
+        "b": {
+          "count": 852,
+          "min": 418,
+          "avg": 1699,
+          "median": 1714,
+          "max": 2623
+        }
+      }
+    },
+    {
+      "name": "緑ピラニア",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 21,
+          "min": 3653,
+          "avg": 3957,
+          "median": 3952,
+          "max": 4543
+        },
+        "a": {
+          "count": 68,
+          "min": 2633,
+          "avg": 2892,
+          "median": 2856,
+          "max": 3624
+        },
+        "b": {
+          "count": 274,
+          "min": 438,
+          "avg": 1687,
+          "median": 1733,
+          "max": 2599
+        }
+      }
+    },
+    {
+      "name": "赤腹ピラニア",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 10,
+          "min": 3644,
+          "avg": 3833,
+          "median": 3751,
+          "max": 4328
+        },
+        "a": {
+          "count": 88,
+          "min": 2627,
+          "avg": 2883,
+          "median": 2813,
+          "max": 3415
+        },
+        "b": {
+          "count": 295,
+          "min": 435,
+          "avg": 1738,
+          "median": 1740,
+          "max": 2611
+        }
+      }
+    },
+    {
+      "name": "黒ピラニア",
+      "stamina": 5,
+      "category": "ノーマル",
+      "bucket": "5",
+      "ranks": {
+        "s": {
+          "count": 38,
+          "min": 3638,
+          "avg": 3937,
+          "median": 3874,
+          "max": 4449
+        },
+        "a": {
+          "count": 174,
+          "min": 2625,
+          "avg": 2920,
+          "median": 2888,
+          "max": 3601
+        },
+        "b": {
+          "count": 709,
+          "min": 428,
+          "avg": 1684,
+          "median": 1705,
+          "max": 2618
+        }
+      }
+    },
+    {
+      "name": "アズールシャイン",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 21,
+          "min": 5196,
+          "avg": 5983,
+          "median": 5841,
+          "max": 7041
+        },
+        "a": {
+          "count": 227,
+          "min": 3248,
+          "avg": 3905,
+          "median": 3797,
+          "max": 5069
+        },
+        "b": {
+          "count": 329,
+          "min": 773,
+          "avg": 2285,
+          "median": 2332,
+          "max": 3237
+        }
+      }
+    },
+    {
+      "name": "エンジーロ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 14,
+          "min": 5163,
+          "avg": 6080,
+          "median": 6124,
+          "max": 6943
+        },
+        "a": {
+          "count": 191,
+          "min": 3242,
+          "avg": 3906,
+          "median": 3814,
+          "max": 5157
+        },
+        "b": {
+          "count": 300,
+          "min": 683,
+          "avg": 2352,
+          "median": 2428,
+          "max": 3230
+        }
+      }
+    },
+    {
+      "name": "エンペラーエンゼル",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 4,
+          "min": 5316,
+          "avg": 5757,
+          "median": 5787,
+          "max": 6137
+        },
+        "a": {
+          "count": 161,
+          "min": 3243,
+          "avg": 3886,
+          "median": 3800,
+          "max": 5093
+        },
+        "b": {
+          "count": 273,
+          "min": 856,
+          "avg": 2356,
+          "median": 2404,
+          "max": 3238
+        }
+      }
+    },
+    {
+      "name": "クロボシカレイ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 4,
+          "min": 5793,
+          "avg": 6284,
+          "median": 6366,
+          "max": 6612
+        },
+        "a": {
+          "count": 85,
+          "min": 3246,
+          "avg": 3925,
+          "median": 3821,
+          "max": 5097
+        },
+        "b": {
+          "count": 124,
+          "min": 1126,
+          "avg": 2399,
+          "median": 2486,
+          "max": 3223
+        }
+      }
+    },
+    {
+      "name": "グリーンエンゼル",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 45,
+          "min": 5217,
+          "avg": 5917,
+          "median": 5935,
+          "max": 7237
+        },
+        "a": {
+          "count": 357,
+          "min": 3241,
+          "avg": 3878,
+          "median": 3821,
+          "max": 5026
+        },
+        "b": {
+          "count": 570,
+          "min": 791,
+          "avg": 2322,
+          "median": 2410,
+          "max": 3238
+        }
+      }
+    },
+    {
+      "name": "コハクナマズ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 10,
+          "min": 5170,
+          "avg": 5587,
+          "median": 5594,
+          "max": 6190
+        },
+        "a": {
+          "count": 170,
+          "min": 3240,
+          "avg": 3909,
+          "median": 3840,
+          "max": 5102
+        },
+        "b": {
+          "count": 233,
+          "min": 716,
+          "avg": 2280,
+          "median": 2332,
+          "max": 3239
+        }
+      }
+    },
+    {
+      "name": "コバルトエンゼル",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 20,
+          "min": 5221,
+          "avg": 6148,
+          "median": 6127,
+          "max": 7111
+        },
+        "a": {
+          "count": 239,
+          "min": 3244,
+          "avg": 3889,
+          "median": 3804,
+          "max": 5098
+        },
+        "b": {
+          "count": 342,
+          "min": 694,
+          "avg": 2336,
+          "median": 2398,
+          "max": 3226
+        }
+      }
+    },
+    {
+      "name": "ゴーストモンガラ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 13,
+          "min": 5164,
+          "avg": 5847,
+          "median": 5880,
+          "max": 6601
+        },
+        "a": {
+          "count": 169,
+          "min": 3244,
+          "avg": 3879,
+          "median": 3792,
+          "max": 5099
+        },
+        "b": {
+          "count": 279,
+          "min": 727,
+          "avg": 2361,
+          "median": 2375,
+          "max": 3237
+        }
+      }
+    },
+    {
+      "name": "サバ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 38,
+          "min": 5187,
+          "avg": 5872,
+          "median": 5763,
+          "max": 7199
+        },
+        "a": {
+          "count": 448,
+          "min": 3244,
+          "avg": 3904,
+          "median": 3817,
+          "max": 5134
+        },
+        "b": {
+          "count": 684,
+          "min": 785,
+          "avg": 2322,
+          "median": 2382,
+          "max": 3237
+        }
+      }
+    },
+    {
+      "name": "シルバーアロワナ (6)",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 5,
+          "min": 5277,
+          "avg": 6396,
+          "median": 6344,
+          "max": 7213
+        },
+        "a": {
+          "count": 78,
+          "min": 3256,
+          "avg": 3906,
+          "median": 3837,
+          "max": 5072
+        },
+        "b": {
+          "count": 117,
+          "min": 889,
+          "avg": 2337,
+          "median": 2380,
+          "max": 3233
+        }
+      }
+    },
+    {
+      "name": "ゼブラダニオ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 21,
+          "min": 5162,
+          "avg": 6011,
+          "median": 6078,
+          "max": 6789
+        },
+        "a": {
+          "count": 275,
+          "min": 3240,
+          "avg": 3905,
+          "median": 3842,
+          "max": 5143
+        },
+        "b": {
+          "count": 419,
+          "min": 733,
+          "avg": 2378,
+          "median": 2467,
+          "max": 3237
+        }
+      }
+    },
+    {
+      "name": "デビルモンガラ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 13,
+          "min": 5218,
+          "avg": 5830,
+          "median": 5737,
+          "max": 6822
+        },
+        "a": {
+          "count": 177,
+          "min": 3244,
+          "avg": 3889,
+          "median": 3836,
+          "max": 5143
+        },
+        "b": {
+          "count": 230,
+          "min": 757,
+          "avg": 2396,
+          "median": 2485,
+          "max": 3237
+        }
+      }
+    },
+    {
+      "name": "ドーンシャイン",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 7,
+          "min": 5188,
+          "avg": 5715,
+          "median": 5494,
+          "max": 6661
+        },
+        "a": {
+          "count": 162,
+          "min": 3245,
+          "avg": 3868,
+          "median": 3797,
+          "max": 5124
+        },
+        "b": {
+          "count": 275,
+          "min": 880,
+          "avg": 2407,
+          "median": 2487,
+          "max": 3236
+        }
+      }
+    },
+    {
+      "name": "ナイトエンゼル",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 10,
+          "min": 5173,
+          "avg": 5848,
+          "median": 5679,
+          "max": 6897
+        },
+        "a": {
+          "count": 110,
+          "min": 3248,
+          "avg": 3882,
+          "median": 3850,
+          "max": 4898
+        },
+        "b": {
+          "count": 188,
+          "min": 762,
+          "avg": 2322,
+          "median": 2410,
+          "max": 3235
+        }
+      }
+    },
+    {
+      "name": "ニジマス",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 8,
+          "min": 5495,
+          "avg": 6080,
+          "median": 6130,
+          "max": 6585
+        },
+        "a": {
+          "count": 138,
+          "min": 3243,
+          "avg": 3895,
+          "median": 3846,
+          "max": 5134
+        },
+        "b": {
+          "count": 246,
+          "min": 767,
+          "avg": 2409,
+          "median": 2527,
+          "max": 3220
+        }
+      }
+    },
+    {
+      "name": "ネオンテトラ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 20,
+          "min": 5167,
+          "avg": 5939,
+          "median": 5811,
+          "max": 6970
+        },
+        "a": {
+          "count": 230,
+          "min": 3243,
+          "avg": 3886,
+          "median": 3844,
+          "max": 5156
+        },
+        "b": {
+          "count": 357,
+          "min": 772,
+          "avg": 2361,
+          "median": 2448,
+          "max": 3235
+        }
+      }
+    },
+    {
+      "name": "ブルーエンゼル",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 19,
+          "min": 5178,
+          "avg": 5957,
+          "median": 5887,
+          "max": 6802
+        },
+        "a": {
+          "count": 255,
+          "min": 3241,
+          "avg": 3874,
+          "median": 3776,
+          "max": 5109
+        },
+        "b": {
+          "count": 375,
+          "min": 735,
+          "avg": 2294,
+          "median": 2374,
+          "max": 3237
+        }
+      }
+    },
+    {
+      "name": "ブルーロケット",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 6,
+          "min": 5287,
+          "avg": 6206,
+          "median": 6292,
+          "max": 6751
+        },
+        "a": {
+          "count": 89,
+          "min": 3240,
+          "avg": 3851,
+          "median": 3818,
+          "max": 5063
+        },
+        "b": {
+          "count": 158,
+          "min": 827,
+          "avg": 2342,
+          "median": 2437,
+          "max": 3224
+        }
+      }
+    },
+    {
+      "name": "ベタ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 28,
+          "min": 5255,
+          "avg": 6027,
+          "median": 5978,
+          "max": 7302
+        },
+        "a": {
+          "count": 272,
+          "min": 3248,
+          "avg": 3922,
+          "median": 3839,
+          "max": 5160
+        },
+        "b": {
+          "count": 398,
+          "min": 779,
+          "avg": 2400,
+          "median": 2456,
+          "max": 3239
+        }
+      }
+    },
+    {
+      "name": "ベニホムラタツ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 6,
+          "min": 5266,
+          "avg": 6059,
+          "median": 5941,
+          "max": 6978
+        },
+        "a": {
+          "count": 85,
+          "min": 3265,
+          "avg": 3791,
+          "median": 3694,
+          "max": 4775
+        },
+        "b": {
+          "count": 131,
+          "min": 940,
+          "avg": 2340,
+          "median": 2334,
+          "max": 3220
+        }
+      }
+    },
+    {
+      "name": "ボナナ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 3,
+          "min": 5276,
+          "avg": 5565,
+          "median": 5677,
+          "max": 5743
+        },
+        "a": {
+          "count": 54,
+          "min": 3251,
+          "avg": 3727,
+          "median": 3626,
+          "max": 5131
+        },
+        "b": {
+          "count": 83,
+          "min": 997,
+          "avg": 2498,
+          "median": 2709,
+          "max": 3234
+        }
+      }
+    },
+    {
+      "name": "ムラサキカンムリタツ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 10,
+          "min": 5273,
+          "avg": 5829,
+          "median": 5802,
+          "max": 6480
+        },
+        "a": {
+          "count": 89,
+          "min": 3250,
+          "avg": 3807,
+          "median": 3739,
+          "max": 4854
+        },
+        "b": {
+          "count": 147,
+          "min": 790,
+          "avg": 2436,
+          "median": 2530,
+          "max": 3235
+        }
+      }
+    },
+    {
+      "name": "ユカタハタ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 43,
+          "min": 5188,
+          "avg": 5994,
+          "median": 5991,
+          "max": 7072
+        },
+        "a": {
+          "count": 450,
+          "min": 3241,
+          "avg": 3912,
+          "median": 3841,
+          "max": 5141
+        },
+        "b": {
+          "count": 683,
+          "min": 713,
+          "avg": 2306,
+          "median": 2385,
+          "max": 3239
+        }
+      }
+    },
+    {
+      "name": "ロケットフィッシュ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 8,
+          "min": 5339,
+          "avg": 6092,
+          "median": 6011,
+          "max": 7002
+        },
+        "a": {
+          "count": 99,
+          "min": 3245,
+          "avg": 3921,
+          "median": 3867,
+          "max": 5026
+        },
+        "b": {
+          "count": 158,
+          "min": 838,
+          "avg": 2357,
+          "median": 2466,
+          "max": 3223
+        }
+      }
+    },
+    {
+      "name": "三色金魚",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 6,
+          "min": 5211,
+          "avg": 5788,
+          "median": 5793,
+          "max": 6734
+        },
+        "a": {
+          "count": 54,
+          "min": 3241,
+          "avg": 3843,
+          "median": 3789,
+          "max": 5120
+        },
+        "b": {
+          "count": 80,
+          "min": 1216,
+          "avg": 2322,
+          "median": 2289,
+          "max": 3218
+        }
+      }
+    },
+    {
+      "name": "五彩扇",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 11,
+          "min": 5252,
+          "avg": 5698,
+          "median": 5509,
+          "max": 6373
+        },
+        "a": {
+          "count": 119,
+          "min": 3242,
+          "avg": 3850,
+          "median": 3774,
+          "max": 4931
+        },
+        "b": {
+          "count": 171,
+          "min": 848,
+          "avg": 2354,
+          "median": 2407,
+          "max": 3233
+        }
+      }
+    },
+    {
+      "name": "緑鱗の旗",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 7,
+          "min": 5465,
+          "avg": 5970,
+          "median": 5955,
+          "max": 6510
+        },
+        "a": {
+          "count": 73,
+          "min": 3251,
+          "avg": 3841,
+          "median": 3746,
+          "max": 5126
+        },
+        "b": {
+          "count": 125,
+          "min": 929,
+          "avg": 2316,
+          "median": 2415,
+          "max": 3235
+        }
+      }
+    },
+    {
+      "name": "藍鱗の旗",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 5,
+          "min": 5342,
+          "avg": 5959,
+          "median": 5855,
+          "max": 6883
+        },
+        "a": {
+          "count": 73,
+          "min": 3245,
+          "avg": 3865,
+          "median": 3788,
+          "max": 5151
+        },
+        "b": {
+          "count": 122,
+          "min": 863,
+          "avg": 2343,
+          "median": 2446,
+          "max": 3210
+        }
+      }
+    },
+    {
+      "name": "赤鱗の旗",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 3,
+          "min": 5212,
+          "avg": 5855,
+          "median": 5675,
+          "max": 6678
+        },
+        "a": {
+          "count": 81,
+          "min": 3243,
+          "avg": 3852,
+          "median": 3805,
+          "max": 4837
+        },
+        "b": {
+          "count": 120,
+          "min": 923,
+          "avg": 2328,
+          "median": 2322,
+          "max": 3218
+        }
+      }
+    },
+    {
+      "name": "金サバ",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 39,
+          "min": 5167,
+          "avg": 5967,
+          "median": 5876,
+          "max": 7068
+        },
+        "a": {
+          "count": 480,
+          "min": 3241,
+          "avg": 3913,
+          "median": 3825,
+          "max": 5160
+        },
+        "b": {
+          "count": 682,
+          "min": 714,
+          "avg": 2320,
+          "median": 2398,
+          "max": 3238
+        }
+      }
+    },
+    {
+      "name": "金魚",
+      "stamina": 6,
+      "category": "ノーマル",
+      "bucket": "6",
+      "ranks": {
+        "s": {
+          "count": 7,
+          "min": 5452,
+          "avg": 6003,
+          "median": 6065,
+          "max": 6752
+        },
+        "a": {
+          "count": 70,
+          "min": 3283,
+          "avg": 3832,
+          "median": 3712,
+          "max": 4835
+        },
+        "b": {
+          "count": 121,
+          "min": 811,
+          "avg": 2287,
+          "median": 2308,
+          "max": 3213
+        }
+      }
+    },
+    {
+      "name": "ボロボロの缶詰",
+      "stamina": 6,
+      "category": "特殊ドロップ",
+      "bucket": "6+",
+      "ranks": {
+        "s": {
+          "count": 1,
+          "min": 9862,
+          "avg": 9862,
+          "median": 9862,
+          "max": 9862
+        },
+        "a": {
+          "count": 6,
+          "min": 8137,
+          "avg": 8757,
+          "median": 8803,
+          "max": 9371
+        },
+        "b": {
+          "count": 36,
+          "min": 16,
+          "avg": 4766,
+          "median": 5418,
+          "max": 7896
+        }
+      }
+    },
+    {
+      "name": "廃電池",
+      "stamina": 6,
+      "category": "特殊ドロップ",
+      "bucket": "6+",
+      "ranks": {
+        "s": {
+          "count": 3,
+          "min": 9618,
+          "avg": 9768,
+          "median": 9786,
+          "max": 9900
+        },
+        "a": {
+          "count": 7,
+          "min": 8245,
+          "avg": 8806,
+          "median": 8746,
+          "max": 9441
+        },
+        "b": {
+          "count": 43,
+          "min": 240,
+          "avg": 3734,
+          "median": 3651,
+          "max": 7808
+        }
+      }
+    },
+    {
+      "name": "キイロハギ",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 23,
+          "min": 5238,
+          "avg": 6179,
+          "median": 6135,
+          "max": 7939
+        },
+        "a": {
+          "count": 105,
+          "min": 3507,
+          "avg": 4201,
+          "median": 4130,
+          "max": 5176
+        },
+        "b": {
+          "count": 169,
+          "min": 818,
+          "avg": 2614,
+          "median": 2748,
+          "max": 3478
+        }
+      }
+    },
+    {
+      "name": "ギンスジヨウジウオ",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 11,
+          "min": 5232,
+          "avg": 6067,
+          "median": 6259,
+          "max": 6590
+        },
+        "a": {
+          "count": 21,
+          "min": 3569,
+          "avg": 4176,
+          "median": 4174,
+          "max": 4537
+        },
+        "b": {
+          "count": 38,
+          "min": 1179,
+          "avg": 2672,
+          "median": 2721,
+          "max": 3417
+        }
+      }
+    },
+    {
+      "name": "クジラウオ",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 5,
+          "min": 5944,
+          "avg": 7014,
+          "median": 6935,
+          "max": 8098
+        },
+        "a": {
+          "count": 46,
+          "min": 3500,
+          "avg": 4023,
+          "median": 3901,
+          "max": 5028
+        },
+        "b": {
+          "count": 74,
+          "min": 952,
+          "avg": 2605,
+          "median": 2612,
+          "max": 3499
+        }
+      }
+    },
+    {
+      "name": "ゴールデンカマス",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 8,
+          "min": 5685,
+          "avg": 6353,
+          "median": 6330,
+          "max": 7634
+        },
+        "a": {
+          "count": 52,
+          "min": 3582,
+          "avg": 4149,
+          "median": 4024,
+          "max": 5178
+        },
+        "b": {
+          "count": 62,
+          "min": 832,
+          "avg": 2619,
+          "median": 2792,
+          "max": 3490
+        }
+      }
+    },
+    {
+      "name": "ゴールドスネーク",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 4,
+          "min": 5640,
+          "avg": 6362,
+          "median": 6407,
+          "max": 6995
+        },
+        "a": {
+          "count": 17,
+          "min": 3536,
+          "avg": 3971,
+          "median": 3989,
+          "max": 4626
+        },
+        "b": {
+          "count": 33,
+          "min": 1692,
+          "avg": 2685,
+          "median": 2801,
+          "max": 3477
+        }
+      }
+    },
+    {
+      "name": "サドルエンゼル",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 9,
+          "min": 5183,
+          "avg": 6267,
+          "median": 6313,
+          "max": 7371
+        },
+        "a": {
+          "count": 37,
+          "min": 3507,
+          "avg": 4142,
+          "median": 4000,
+          "max": 5159
+        },
+        "b": {
+          "count": 50,
+          "min": 1375,
+          "avg": 2568,
+          "median": 2580,
+          "max": 3448
+        }
+      }
+    },
+    {
+      "name": "パープルスネーク",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 22,
+          "min": 5205,
+          "avg": 6140,
+          "median": 5904,
+          "max": 7717
+        },
+        "a": {
+          "count": 102,
+          "min": 3509,
+          "avg": 4078,
+          "median": 3984,
+          "max": 5043
+        },
+        "b": {
+          "count": 164,
+          "min": 1015,
+          "avg": 2608,
+          "median": 2677,
+          "max": 3498
+        }
+      }
+    },
+    {
+      "name": "ヒトデ",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 8,
+          "min": 5189,
+          "avg": 6410,
+          "median": 6421,
+          "max": 7395
+        },
+        "a": {
+          "count": 48,
+          "min": 3517,
+          "avg": 4218,
+          "median": 4187,
+          "max": 5121
+        },
+        "b": {
+          "count": 65,
+          "min": 1250,
+          "avg": 2580,
+          "median": 2641,
+          "max": 3495
+        }
+      }
+    },
+    {
+      "name": "ミナミハコフグ",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 4,
+          "min": 5411,
+          "avg": 5956,
+          "median": 5767,
+          "max": 6882
+        },
+        "a": {
+          "count": 33,
+          "min": 3537,
+          "avg": 4249,
+          "median": 4347,
+          "max": 5135
+        },
+        "b": {
+          "count": 46,
+          "min": 1018,
+          "avg": 2698,
+          "median": 2902,
+          "max": 3371
+        }
+      }
+    },
+    {
+      "name": "ライトニングパイク",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 17,
+          "min": 5187,
+          "avg": 6168,
+          "median": 5916,
+          "max": 7716
+        },
+        "a": {
+          "count": 64,
+          "min": 3518,
+          "avg": 4137,
+          "median": 4053,
+          "max": 5123
+        },
+        "b": {
+          "count": 105,
+          "min": 973,
+          "avg": 2684,
+          "median": 2785,
+          "max": 3496
+        }
+      }
+    },
+    {
+      "name": "レッドタン",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 19,
+          "min": 5185,
+          "avg": 6321,
+          "median": 6091,
+          "max": 7515
+        },
+        "a": {
+          "count": 57,
+          "min": 3504,
+          "avg": 4147,
+          "median": 3957,
+          "max": 5110
+        },
+        "b": {
+          "count": 80,
+          "min": 1199,
+          "avg": 2645,
+          "median": 2692,
+          "max": 3497
+        }
+      }
+    },
+    {
+      "name": "星斑魚",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 7,
+          "min": 5247,
+          "avg": 6123,
+          "median": 5866,
+          "max": 7346
+        },
+        "a": {
+          "count": 24,
+          "min": 3513,
+          "avg": 4442,
+          "median": 4495,
+          "max": 5129
+        },
+        "b": {
+          "count": 44,
+          "min": 911,
+          "avg": 2521,
+          "median": 2684,
+          "max": 3488
+        }
+      }
+    },
+    {
+      "name": "桜サドルエンゼル",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 13,
+          "min": 5206,
+          "avg": 5947,
+          "median": 5726,
+          "max": 7773
+        },
+        "a": {
+          "count": 66,
+          "min": 3514,
+          "avg": 4189,
+          "median": 4209,
+          "max": 5165
+        },
+        "b": {
+          "count": 112,
+          "min": 1085,
+          "avg": 2648,
+          "median": 2847,
+          "max": 3499
+        }
+      }
+    },
+    {
+      "name": "海中の栗",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 11,
+          "min": 5280,
+          "avg": 6323,
+          "median": 6075,
+          "max": 7782
+        },
+        "a": {
+          "count": 38,
+          "min": 3525,
+          "avg": 4223,
+          "median": 4157,
+          "max": 4981
+        },
+        "b": {
+          "count": 57,
+          "min": 954,
+          "avg": 2572,
+          "median": 2717,
+          "max": 3478
+        }
+      }
+    },
+    {
+      "name": "紫紺クジラウオ",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 20,
+          "min": 5200,
+          "avg": 6255,
+          "median": 6088,
+          "max": 7750
+        },
+        "a": {
+          "count": 102,
+          "min": 3524,
+          "avg": 4157,
+          "median": 4102,
+          "max": 5160
+        },
+        "b": {
+          "count": 185,
+          "min": 1013,
+          "avg": 2622,
+          "median": 2692,
+          "max": 3498
+        }
+      }
+    },
+    {
+      "name": "藍斑魚",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 12,
+          "min": 5252,
+          "avg": 6022,
+          "median": 5737,
+          "max": 7757
+        },
+        "a": {
+          "count": 70,
+          "min": 3510,
+          "avg": 4164,
+          "median": 4005,
+          "max": 5170
+        },
+        "b": {
+          "count": 95,
+          "min": 1268,
+          "avg": 2684,
+          "median": 2833,
+          "max": 3485
+        }
+      }
+    },
+    {
+      "name": "錦鯉",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 31,
+          "min": 5248,
+          "avg": 6319,
+          "median": 6206,
+          "max": 7978
+        },
+        "a": {
+          "count": 106,
+          "min": 3507,
+          "avg": 4140,
+          "median": 4034,
+          "max": 5078
+        },
+        "b": {
+          "count": 171,
+          "min": 851,
+          "avg": 2555,
+          "median": 2653,
+          "max": 3465
+        }
+      }
+    },
+    {
+      "name": "青斑魚",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 6,
+          "min": 5307,
+          "avg": 5973,
+          "median": 5651,
+          "max": 7508
+        },
+        "a": {
+          "count": 55,
+          "min": 3500,
+          "avg": 4084,
+          "median": 4019,
+          "max": 5113
+        },
+        "b": {
+          "count": 73,
+          "min": 882,
+          "avg": 2507,
+          "median": 2670,
+          "max": 3478
+        }
+      }
+    },
+    {
+      "name": "青玉鱗",
+      "stamina": 9,
+      "category": "ノーマル",
+      "bucket": "9",
+      "ranks": {
+        "s": {
+          "count": 11,
+          "min": 5274,
+          "avg": 6155,
+          "median": 6112,
+          "max": 7625
+        },
+        "a": {
+          "count": 47,
+          "min": 3557,
+          "avg": 4285,
+          "median": 4396,
+          "max": 5171
+        },
+        "b": {
+          "count": 83,
+          "min": 877,
+          "avg": 2605,
+          "median": 2795,
+          "max": 3437
+        }
+      }
+    },
+    {
+      "name": "アイススタージョン",
+      "stamina": 12,
+      "category": "ノーマル",
+      "bucket": "12",
+      "ranks": {
+        "s": {
+          "count": 3,
+          "min": 13015,
+          "avg": 14171,
+          "median": 13485,
+          "max": 16015
+        },
+        "a": {
+          "count": 21,
+          "min": 5095,
+          "avg": 6984,
+          "median": 6820,
+          "max": 10227
+        },
+        "b": {
+          "count": 5,
+          "min": 2004,
+          "avg": 3980,
+          "median": 4446,
+          "max": 4642
+        }
+      }
+    },
+    {
+      "name": "アジアアロワナ",
+      "stamina": 12,
+      "category": "ノーマル",
+      "bucket": "12",
+      "ranks": {
+        "s": {
+          "count": 2,
+          "min": 13677,
+          "avg": 14033,
+          "median": 14033,
+          "max": 14390
+        },
+        "a": {
+          "count": 15,
+          "min": 5003,
+          "avg": 6766,
+          "median": 6176,
+          "max": 11133
+        },
+        "b": {
+          "count": 5,
+          "min": 2993,
+          "avg": 3953,
+          "median": 4105,
+          "max": 4463
+        }
+      }
+    },
+    {
+      "name": "キハダマグロ (12)",
+      "stamina": 12,
+      "category": "ノーマル",
+      "bucket": "12",
+      "ranks": {
+        "s": {
+          "count": 4,
+          "min": 11245,
+          "avg": 11603,
+          "median": 11584,
+          "max": 11999
+        },
+        "a": {
+          "count": 20,
+          "min": 5050,
+          "avg": 6843,
+          "median": 6652,
+          "max": 9995
+        },
+        "b": {
+          "count": 8,
+          "min": 571,
+          "avg": 2145,
+          "median": 1901,
+          "max": 4514
+        }
+      }
+    },
+    {
+      "name": "グリーンクイーン",
+      "stamina": 12,
+      "category": "ノーマル",
+      "bucket": "12",
+      "ranks": {
+        "s": {
+          "count": 3,
+          "min": 11389,
+          "avg": 11678,
+          "median": 11702,
+          "max": 11944
+        },
+        "a": {
+          "count": 18,
+          "min": 5431,
+          "avg": 7051,
+          "median": 6184,
+          "max": 9173
+        },
+        "b": {
+          "count": 9,
+          "min": 2509,
+          "avg": 4035,
+          "median": 4259,
+          "max": 4953
+        }
+      }
+    },
+    {
+      "name": "シルバーアロワナ (12)",
+      "stamina": 12,
+      "category": "ノーマル",
+      "bucket": "12",
+      "ranks": {
+        "s": {
+          "count": 1,
+          "min": 12261,
+          "avg": 12261,
+          "median": 12261,
+          "max": 12261
+        },
+        "a": {
+          "count": 25,
+          "min": 5301,
+          "avg": 7457,
+          "median": 7160,
+          "max": 10508
+        },
+        "b": {
+          "count": 8,
+          "min": 2305,
+          "avg": 3923,
+          "median": 4150,
+          "max": 4947
+        }
+      }
+    },
+    {
+      "name": "ダスクリップル",
+      "stamina": 12,
+      "category": "ノーマル",
+      "bucket": "12",
+      "ranks": {
+        "s": {
+          "count": 3,
+          "min": 11267,
+          "avg": 12982,
+          "median": 12258,
+          "max": 15423
+        },
+        "a": {
+          "count": 19,
+          "min": 5043,
+          "avg": 6878,
+          "median": 6471,
+          "max": 11187
+        },
+        "b": {
+          "count": 4,
+          "min": 3267,
+          "avg": 4009,
+          "median": 4032,
+          "max": 4704
+        }
+      }
+    },
+    {
+      "name": "ダークマンタ",
+      "stamina": 12,
+      "category": "ノーマル",
+      "bucket": "12",
+      "ranks": {
+        "s": {
+          "count": 8,
+          "min": 11241,
+          "avg": 14176,
+          "median": 14484,
+          "max": 16402
+        },
+        "a": {
+          "count": 29,
+          "min": 5085,
+          "avg": 7019,
+          "median": 6567,
+          "max": 10795
+        },
+        "b": {
+          "count": 7,
+          "min": 2061,
+          "avg": 3682,
+          "median": 3441,
+          "max": 4931
+        }
+      }
+    },
+    {
+      "name": "デンキウナギ",
+      "stamina": 12,
+      "category": "ノーマル",
+      "bucket": "12",
+      "ranks": {
+        "s": {
+          "count": 5,
+          "min": 11237,
+          "avg": 12524,
+          "median": 12415,
+          "max": 14042
+        },
+        "a": {
+          "count": 19,
+          "min": 5041,
+          "avg": 7187,
+          "median": 6742,
+          "max": 10278
+        },
+        "b": {
+          "count": 8,
+          "min": 2845,
+          "avg": 4007,
+          "median": 4303,
+          "max": 4975
+        }
+      }
+    },
+    {
+      "name": "パープルクイーン",
+      "stamina": 12,
+      "category": "ノーマル",
+      "bucket": "12",
+      "ranks": {
+        "s": {
+          "count": 4,
+          "min": 11791,
+          "avg": 12987,
+          "median": 12508,
+          "max": 15140
+        },
+        "a": {
+          "count": 15,
+          "min": 5292,
+          "avg": 7482,
+          "median": 7141,
+          "max": 10636
+        },
+        "b": {
+          "count": 11,
+          "min": 2470,
+          "avg": 3805,
+          "median": 3690,
+          "max": 4993
+        }
+      }
+    },
+    {
+      "name": "フレイムエンゼル",
+      "stamina": 12,
+      "category": "ノーマル",
+      "bucket": "12",
+      "ranks": {
+        "s": {
+          "count": 2,
+          "min": 12423,
+          "avg": 13768,
+          "median": 13768,
+          "max": 15113
+        },
+        "a": {
+          "count": 22,
+          "min": 5098,
+          "avg": 7153,
+          "median": 6995,
+          "max": 10447
+        },
+        "b": {
+          "count": 9,
+          "min": 3150,
+          "avg": 4093,
+          "median": 4057,
+          "max": 4897
+        }
+      }
+    },
+    {
+      "name": "ホネダイ",
+      "stamina": 12,
+      "category": "ノーマル",
+      "bucket": "12",
+      "ranks": {
+        "s": {
+          "count": 2,
+          "min": 13304,
+          "avg": 14385,
+          "median": 14385,
+          "max": 15466
+        },
+        "a": {
+          "count": 24,
+          "min": 5405,
+          "avg": 7152,
+          "median": 7210,
+          "max": 9386
+        },
+        "b": {
+          "count": 9,
+          "min": 2538,
+          "avg": 3621,
+          "median": 3537,
+          "max": 4831
+        }
+      }
+    },
+    {
+      "name": "ミドリオウムウオ",
+      "stamina": 12,
+      "category": "ノーマル",
+      "bucket": "12",
+      "ranks": {
+        "s": {
+          "count": 2,
+          "min": 11226,
+          "avg": 11807,
+          "median": 11807,
+          "max": 12389
+        },
+        "a": {
+          "count": 15,
+          "min": 5750,
+          "avg": 7508,
+          "median": 7086,
+          "max": 10782
+        },
+        "b": {
+          "count": 9,
+          "min": 2138,
+          "avg": 3814,
+          "median": 4139,
+          "max": 4925
+        }
+      }
+    },
+    {
+      "name": "猛毒ミノカサゴ",
+      "stamina": 12,
+      "category": "ノーマル",
+      "bucket": "12",
+      "ranks": {
+        "s": {
+          "count": 1,
+          "min": 11926,
+          "avg": 11926,
+          "median": 11926,
+          "max": 11926
+        },
+        "a": {
+          "count": 14,
+          "min": 5183,
+          "avg": 6955,
+          "median": 6942,
+          "max": 9050
+        },
+        "b": {
+          "count": 6,
+          "min": 3506,
+          "avg": 3940,
+          "median": 3933,
+          "max": 4541
+        }
+      }
+    },
+    {
+      "name": "縞々ココナッツ",
+      "stamina": 12,
+      "category": "ノーマル",
+      "bucket": "12",
+      "ranks": {
+        "s": {
+          "count": 4,
+          "min": 11196,
+          "avg": 12435,
+          "median": 12539,
+          "max": 13469
+        },
+        "a": {
+          "count": 22,
+          "min": 5093,
+          "avg": 6667,
+          "median": 6254,
+          "max": 9399
+        },
+        "b": {
+          "count": 12,
+          "min": 3282,
+          "avg": 4051,
+          "median": 4075,
+          "max": 4754
+        }
+      }
+    },
+    {
+      "name": "アズールエンゼル",
+      "stamina": 15,
+      "category": "ヌシ",
+      "bucket": "15",
+      "ranks": {
+        "s": {
+          "count": 1,
+          "min": 53418,
+          "avg": 53418,
+          "median": 53418,
+          "max": 53418
+        },
+        "a": {
+          "count": 3,
+          "min": 19201,
+          "avg": 22409,
+          "median": 20978,
+          "max": 27048
+        },
+        "b": {
+          "count": 0,
+          "min": null,
+          "avg": null,
+          "median": null,
+          "max": null
+        }
+      }
+    },
+    {
+      "name": "カクレクマノミ",
+      "stamina": 15,
+      "category": "ヌシ",
+      "bucket": "15",
+      "ranks": {
+        "s": {
+          "count": 1,
+          "min": 39733,
+          "avg": 39733,
+          "median": 39733,
+          "max": 39733
+        },
+        "a": {
+          "count": 2,
+          "min": 29965,
+          "avg": 30797,
+          "median": 30797,
+          "max": 31630
+        },
+        "b": {
+          "count": 0,
+          "min": null,
+          "avg": null,
+          "median": null,
+          "max": null
+        }
+      }
+    },
+    {
+      "name": "シーイール",
+      "stamina": 15,
+      "category": "ヌシ",
+      "bucket": "15",
+      "ranks": {
+        "s": {
+          "count": 2,
+          "min": 46290,
+          "avg": 51266,
+          "median": 51266,
+          "max": 56243
+        },
+        "a": {
+          "count": 3,
+          "min": 23182,
+          "avg": 27804,
+          "median": 25937,
+          "max": 34294
+        },
+        "b": {
+          "count": 0,
+          "min": null,
+          "avg": null,
+          "median": null,
+          "max": null
+        }
+      }
+    },
+    {
+      "name": "ジェイドエンゼル",
+      "stamina": 15,
+      "category": "ヌシ",
+      "bucket": "15",
+      "ranks": {
+        "s": {
+          "count": 1,
+          "min": 57811,
+          "avg": 57811,
+          "median": 57811,
+          "max": 57811
+        },
+        "a": {
+          "count": 8,
+          "min": 21829,
+          "avg": 28625,
+          "median": 27962,
+          "max": 36996
+        },
+        "b": {
+          "count": 0,
+          "min": null,
+          "avg": null,
+          "median": null,
+          "max": null
+        }
+      }
+    },
+    {
+      "name": "ソードテール",
+      "stamina": 15,
+      "category": "ヌシ",
+      "bucket": "15",
+      "ranks": {
+        "s": {
+          "count": 1,
+          "min": 64002,
+          "avg": 64002,
+          "median": 64002,
+          "max": 64002
+        },
+        "a": {
+          "count": 12,
+          "min": 21457,
+          "avg": 29576,
+          "median": 30116,
+          "max": 36520
+        },
+        "b": {
+          "count": 0,
+          "min": null,
+          "avg": null,
+          "median": null,
+          "max": null
+        }
+      }
+    },
+    {
+      "name": "トウダイクラゲ",
+      "stamina": 15,
+      "category": "ヌシ",
+      "bucket": "15",
+      "ranks": {
+        "s": {
+          "count": 1,
+          "min": 43090,
+          "avg": 43090,
+          "median": 43090,
+          "max": 43090
+        },
+        "a": {
+          "count": 6,
+          "min": 26112,
+          "avg": 31501,
+          "median": 30778,
+          "max": 37297
+        },
+        "b": {
+          "count": 0,
+          "min": null,
+          "avg": null,
+          "median": null,
+          "max": null
+        }
+      }
+    },
+    {
+      "name": "ドーンリップル",
+      "stamina": 15,
+      "category": "ヌシ",
+      "bucket": "15",
+      "ranks": {
+        "s": {
+          "count": 1,
+          "min": 60279,
+          "avg": 60279,
+          "median": 60279,
+          "max": 60279
+        },
+        "a": {
+          "count": 2,
+          "min": 29135,
+          "avg": 31308,
+          "median": 31308,
+          "max": 33481
+        },
+        "b": {
+          "count": 0,
+          "min": null,
+          "avg": null,
+          "median": null,
+          "max": null
+        }
+      }
+    },
+    {
+      "name": "ニシキイトマキエイ",
+      "stamina": 15,
+      "category": "ヌシ",
+      "bucket": "15",
+      "ranks": {
+        "s": {
+          "count": 2,
+          "min": 37944,
+          "avg": 38234,
+          "median": 38234,
+          "max": 38524
+        },
+        "a": {
+          "count": 1,
+          "min": 23343,
+          "avg": 23343,
+          "median": 23343,
+          "max": 23343
+        },
+        "b": {
+          "count": 0,
+          "min": null,
+          "avg": null,
+          "median": null,
+          "max": null
+        }
+      }
+    },
+    {
+      "name": "ミントエンゼル",
+      "stamina": 15,
+      "category": "ヌシ",
+      "bucket": "15",
+      "ranks": {
+        "s": {
+          "count": 1,
+          "min": 46675,
+          "avg": 46675,
+          "median": 46675,
+          "max": 46675
+        },
+        "a": {
+          "count": 8,
+          "min": 21274,
+          "avg": 27546,
+          "median": 26768,
+          "max": 34755
+        },
+        "b": {
+          "count": 0,
+          "min": null,
+          "avg": null,
+          "median": null,
+          "max": null
+        }
+      }
+    },
+    {
+      "name": "レッドアロワナ",
+      "stamina": 15,
+      "category": "ヌシ",
+      "bucket": "15",
+      "ranks": {
+        "s": {
+          "count": 1,
+          "min": 38657,
+          "avg": 38657,
+          "median": 38657,
+          "max": 38657
+        },
+        "a": {
+          "count": 4,
+          "min": 20019,
+          "avg": 26626,
+          "median": 26752,
+          "max": 32982
+        },
+        "b": {
+          "count": 0,
+          "min": null,
+          "avg": null,
+          "median": null,
+          "max": null
+        }
+      }
+    },
+    {
+      "name": "地獄ミノカサゴ",
+      "stamina": 15,
+      "category": "ヌシ",
+      "bucket": "15",
+      "ranks": {
+        "s": {
+          "count": 1,
+          "min": 62461,
+          "avg": 62461,
+          "median": 62461,
+          "max": 62461
+        },
+        "a": {
+          "count": 4,
+          "min": 26959,
+          "avg": 29372,
+          "median": 29129,
+          "max": 32273
+        },
+        "b": {
+          "count": 0,
+          "min": null,
+          "avg": null,
+          "median": null,
+          "max": null
+        }
+      }
+    },
+    {
+      "name": "紅白錦鯉",
+      "stamina": 15,
+      "category": "ヌシ",
+      "bucket": "15",
+      "ranks": {
+        "s": {
+          "count": 2,
+          "min": 53549,
+          "avg": 57323,
+          "median": 57323,
+          "max": 61098
+        },
+        "a": {
+          "count": 2,
+          "min": 26397,
+          "avg": 26924,
+          "median": 26924,
+          "max": 27452
+        },
+        "b": {
+          "count": 0,
+          "min": null,
+          "avg": null,
+          "median": null,
+          "max": null
+        }
+      }
+    }
+  ]
+}
