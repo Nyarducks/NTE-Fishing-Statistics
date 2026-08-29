@@ -1,4 +1,4 @@
-import { useEffect, useState, useCallback, useMemo, useRef } from 'react'
+import { useEffect, useState, useMemo } from 'react'
 
 export interface RankData {
   count: number
@@ -52,30 +52,28 @@ export default function App() {
   const [selectedFishName, setSelectedFishName] = useState('')
   const [fishSearch, setFishSearch] = useState('')
 
-  const fileInputRef = useRef<HTMLInputElement>(null)
   
-  const handleFileUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const file = event.target.files?.[0]
-    if (!file) return
-    setLoading(true)
-    setError(null)
-    const reader = new FileReader()
-    reader.onload = (e) => {
+  useEffect(() => {
+    const loadData = async () => {
+      setLoading(true)
+      setError(null)
       try {
-        const json = JSON.parse(e.target?.result as string) as FishSizeAnalysisPayload
+        const res = await fetch('./data.json')
+        if (!res.ok) throw new Error('Failed to fetch')
+        const json = await res.json() as FishSizeAnalysisPayload
         setData(json)
       } catch (err: any) {
-        setError('JSONの読み込みに失敗しました')
+        setError('データの読み込みに失敗しました')
       } finally {
         setLoading(false)
       }
     }
-    reader.readAsText(file)
-  }
+    
+    if (!data && !loading) {
+      loadData()
+    }
+  }, [data, loading])
 
-  const loadData = useCallback(() => {
-    fileInputRef.current?.click()
-  }, [])
 
 
   
@@ -158,12 +156,7 @@ export default function App() {
             <p className="text-[#a8b5cf]">スタミナ区分・ランクごとのユニーク重量を集計。範囲は下限〜上限、白線は中央値です。</p>
             {data && <p className="text-[#a8b5cf] text-sm mt-2">生成日時: {new Date(data.generated_at).toLocaleString("ja-JP")}</p>}
           </div>
-          <div className="flex gap-2 items-center">
-            <input type="file" ref={fileInputRef} onChange={handleFileUpload} accept=".json" className="hidden" />
-            <button onClick={loadData} disabled={loading} className="px-4 py-2 bg-indigo-600 hover:bg-indigo-500 rounded text-white text-sm font-semibold transition-colors">
-              JSONを読み込む
-            </button>
-          </div>
+          
         </header>
 
         {error && <div className="text-red-400 p-4 bg-red-900/20 border border-red-900/50 rounded mb-6">{error}</div>}
